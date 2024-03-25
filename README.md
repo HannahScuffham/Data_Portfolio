@@ -1,2 +1,2 @@
 Example portfolio demonstrating my data analysis skills
-Using data taken from Kaggle about A&E Attendances in England 
+1. A notebook analysing book sales data
